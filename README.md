@@ -2,7 +2,6 @@
 
 This container image is to create endpoint to collect logs on your host.
 
-```
 Default configurations are to:
 
 * listen port `24224` for Fluentd forward protocol
